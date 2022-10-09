@@ -22,6 +22,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -37,9 +38,9 @@
 
 <p align="center">
 <a href="mailto: moch.nadhiful94@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moch.nadhiful94@gmail.com"/>
+ <img src="https://img.shields.io/badge/-nadhiful-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moch.nadhiful94@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/mochammad_nadhiful_alim/">
  <img src="https://img.shields.io/badge/-nadh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mochammad-nadhiful-alim/"/>
 </a>
  <a href="https://instagram.com/nadh_iful">
