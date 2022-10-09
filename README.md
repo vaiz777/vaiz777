@@ -52,7 +52,7 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=vaiz777_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=vaiz777&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaiz777&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
